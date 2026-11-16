@@ -1,46 +1,30 @@
-# 👋 Hi, I'm Chauncey Huang
+# Hi, I’m Chauncey 👋
 
-🎓 Undergraduate student at **Hong Kong University of Science and Technology (HKUST)**, majoring in **ISD**.  
-💡 Passionate about **Game Design**, **Artificial Intelligence**, and **Web Development**.  
-📍 Currently based in **Hong Kong**.  
-📫 Reach me at: **hhuangcn@connect.ust.hk**
+**HKUST ISD undergraduate exploring design, technology and human experience.**
 
----
+I enjoy turning ideas into interfaces, physical prototypes and playful systems. My interests span product prototyping, tangible interaction, game design and AI-assisted development.
 
-## 🚀 Projects
+[Portfolio](https://chauncey665.github.io/) · [LinkedIn](https://www.linkedin.com/in/haochong-huang-8031b93b0/) · [Email](mailto:hhuangcn@connect.ust.hk)
 
-- [MindWell](https://terms-sport-40411228.figma.site)  
-  *A mood tracker app designed for HKUST students.*
+## Selected projects
 
-- [CarryCalm](https://power-puma-01404574.figma.site)  
-  *A packing assistant for busy travelers.*
+**Digital products**
+- **ScreenMemory** — An iOS prototype exploring screenshot retrieval through OCR and visual cues.
+- **AI Stylist** — An AI-assisted wardrobe project exploring garment organization and outfit suggestions.
+- **MindWell** — A mood-tracking app design for everyday self-reflection.
+- **CarryCalm** — A packing-assistant app design for organizing travel essentials.
 
-- [Portfolio](https://chauncey665.github.io/)  
-  *My personal portfolio website with more details about me and my work.*
+**Physical interaction & materials**
+- **Dung Beetle Odyssey** — A spherical physical controller paired with a Unity game prototype.
+- **Wearable Motion Feedback** — A silicone wearable and sensor prototype exploring throwing movements.
+- **Paint Block Cup** — Plant-pigment experiments and a modular container concept.
+- **Multi-touch Board Game** — A tangible-interface concept combining physical objects and digital feedback.
 
----
+[Explore projects and images →](https://chauncey665.github.io/#work)
 
-## 🛠️ Skills
+## Exploring
 
-- Frontend Development (HTML, CSS, JavaScript, Responsive Design)
-- Web Design & Interactive Effects
-- Prompt Engineering for AI Code Generation
-- Game Design Concepts
-- Multilingual Communication (English / Chinese / Cantonese)
-
----
-
-## 🌱 Interests
-
-- 🎮 Game Design  
-- 🤖 Artificial Intelligence  
-- 🌐 Web Design & Interactive Portfolios  
-
----
-
-## 📫 Connect with Me
-
-- ✉️ Email: **chauncey665@163.com**  
-- 🌐 Location: Hong Kong  
-- 💼 WeChat: **chuancey--**  
-- 🔗 More details on my [Personal Webpage](https://chauncey665.github.io/)
+- **Personal OS** — A cross-device personal AI assistant connecting iPhone interaction with Mac mini execution; implementation status to be verified.
+- **TIDE / E-Marine** — Early research into electric boat retrofits and charging infrastructure.
+- **RULEBREAKER** — A card-based roguelike concept built around creating and countering rules.
+- **Adaptive cooling** — Early team research into occupant-aware cooling and ventilation.
