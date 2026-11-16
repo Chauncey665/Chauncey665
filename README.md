@@ -15,7 +15,7 @@
 - [CarryCalm](https://power-puma-01404574.figma.site)  
   *A packing assistant for busy travelers.*
 
-- [Portfolio](https://copy-of-chauncey-s-profolio-312188927522.us-west1.run.app/)  
+- [Portfolio](https://chauncey-portfolio-review-2026.chaunceyhc665.chatgpt.site)  
   *My personal portfolio website with more details about me and my work.*
 
 ---
@@ -43,4 +43,4 @@
 - ✉️ Email: **chauncey665@163.com**  
 - 🌐 Location: Hong Kong  
 - 💼 WeChat: **chuancey--**  
-- 🔗 More details on my [Personal Webpage](https://copy-of-chauncey-s-profolio-312188927522.us-west1.run.app/)
+- 🔗 More details on my [Personal Webpage](https://chauncey-portfolio-review-2026.chaunceyhc665.chatgpt.site)
